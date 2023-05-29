@@ -85,7 +85,7 @@ void setup()
 void loop()
 {
 
-  static char str[100] = {0,};
+  static char str[100] = {0,}; 
 
   memset(str, 0, sizeof(str));
 
